@@ -1,0 +1,19 @@
+.jumbotron {
+  margin: 0px;
+}
+
+.nav-tabs {
+  background-color: #eeeeee;
+}
+
+.nav-tabs > li > a {
+  background-color: #e2e2e2;
+}
+
+input {
+  width: 90%;
+}
+
+ul {
+  list-style: none
+}
